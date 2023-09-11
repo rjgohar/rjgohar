@@ -9,16 +9,16 @@ Hi, I am Rehmat
 <h2>🛠 <b>Languages and Tools</b></h2>
 <div style="display:flex;gap:5px;">
   <img src="./icons/javascript.png" height='50px'>
-  <img src="./icons/typescript.png" height='50px'>
-  <img src="./icons/solidity.svg" height='50px'>
+  
+  
   <img src="./icons/react.png" height='50px'>
   <img src="./icons/nodejs.svg" height='50px'>
   <img src="./icons/expressjs.svg"height='50px'>
   <img src="./icons/mongodb.svg" height='50px'>
   <img src="./icons/git.svg" height='50px'>
-  <img src="./icons/hardhat.png" height='50px'>
+ 
   <img src="./icons/vs.svg" height='50px'>
-  <img src="./icons/remixIDE.svg" height='50px'>
+  
 </div>
 <br />
 
