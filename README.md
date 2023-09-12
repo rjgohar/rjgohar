@@ -3,7 +3,7 @@ Hi, I am Rehmat
 <img src="./gifs//wave.gif" width="35">
 </h1>
 <b>  
- Experienced Frontend Developer with a demonstrated history of working in the publishing industry. Skilled in WordPress, React.js, Front-end Development, Cascading Style Sheets (CSS), and Web Development.
+ Experienced WEB Developer with a demonstrated history of working in the publishing industry. Skilled in WordPress, React.js, Front-end Development, Cascading Style Sheets (CSS), and Web Development.
 </b>
 
 <h2>🛠 <b>Languages and Tools</b></h2>
